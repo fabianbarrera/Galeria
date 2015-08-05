@@ -1,0 +1,29 @@
+
+.titulo{position:absolute;
+		left: 599px;
+		color:#BBB9B9;
+		top:-34px;
+		font-size: 55px;
+}
+
+ p > img {position:absolute;
+		top:70px;
+		left:530px;}
+
+h1 > img {position:absolute;
+		top:250px;
+		left:80px;}
+
+h2 > img {position:absolute;
+		top:230px;
+		left:1160px;}
+
+
+h3 > img {position:absolute;
+		top:360px;
+		left:655px;}
+
+
+h4 > img {position:absolute;
+		top:560px;
+		left:615px;}
